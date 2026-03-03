@@ -67,6 +67,3 @@ High-fidelity UX prototype
 ## 👩‍💻 Author
 Dr Insiya Munavver
 Health-tech Enthusiast
-
-Insia Munavver  
-UX / Product Design Prototype
