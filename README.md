@@ -5,7 +5,7 @@ High-fidelity dental lab collaboration prototype featuring case management, 3D a
 ## 🔗 Live Prototype
 
 👉 **View the interactive prototype here:**  
-[Click to explore The Lab Link](https://www.figma.com/make/VVc3DC3vUv7ZlL5JBTPeXA/Dental-Lab-Management-Dashboard?t=HCsCS9EQM3ZIpqee-1)
+[Click to explore The Lab Link](https://www.figma.com/make/VVc3DC3vUv7ZlL5JBTPeXA/Dental-Lab-Management-Dashboard?fullscreen=1&t=WCAEPgufHLnhWW5S-1)
 
 ---
 
